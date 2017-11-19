@@ -9,4 +9,6 @@ catalog: true
 ---
 
 
-Hello~, this is my first Blog
+# Hello~, this is my first Blog
+
+博士已经读到第三年了，开通个人博客，记录一下自己的科研和生活的点点滴滴吧~~~
