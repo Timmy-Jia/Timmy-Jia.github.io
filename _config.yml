@@ -2,7 +2,7 @@
 title: Timmy's Blog
 SEOTitle: Tim的博客 | Tim Blog
 header-img: img/about-Tim-gentle.jpg
-email: jiaqingmin@gmail.com
+email: jqm_bupt@163.com
 description: "5G is coming!!!."
 keyword: "Tim, Tim Blog, Tim的博客, JiaQingmin, 贾庆民, Mobile Network, Future Network, Edge Computing"
 url: "http://Timmy-Jia.github.io"          # your host, for absolute URL
@@ -75,7 +75,7 @@ ga_domain: auto
 
 
 # Featured Tags
-featured-tags: true                     # 是否使用首页标签
+featured-tags: no                     # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
