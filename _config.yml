@@ -3,8 +3,8 @@ title: BY Blog
 SEOTitle: Tim的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: jiaqingmin@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, Tim的博客, JiaQingmin, 贾庆民, Mobile Network, Future Network"
+description: "5G is coming!!!."
+keyword: "BY, BY Blog, Tim的博客, JiaQingmin, 贾庆民, Mobile Network, Future Network, Edge Computing"
 url: "http://Timmy-Jia.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
@@ -56,7 +56,7 @@ kramdown:
 
 # 评论系统
 # Disqus settings（https://disqus.com/）
-disqus_username: qiubaiying
+# disqus_username: qiubaiying
 
 # 多说 将于2017年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
 # Duoshuo settings
