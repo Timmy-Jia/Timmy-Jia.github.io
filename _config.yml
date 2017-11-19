@@ -75,7 +75,7 @@ ga_domain: auto
 
 
 # Featured Tags
-featured-tags: no                     # 是否使用首页标签
+featured-tags: ture                     # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
