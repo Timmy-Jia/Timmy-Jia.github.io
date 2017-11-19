@@ -7,7 +7,7 @@ description: "5G is coming!!!."
 keyword: "Tim, Tim Blog, Tim的博客, JiaQingmin, 贾庆民, Mobile Network, Future Network, Edge Computing"
 url: "http://Timmy-Jia.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/Timmy-Jia/Timmy-Jia.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,7 @@ sidebar-avatar: /img/about-Tim-gentle.jpg      # use absolute URL, seeing it's u
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-#zhihu_username:     qiubaiying
-#github_username:    qiubaiying
-#facebook_username:  baiying.qiu.7
-#jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+
 
 
 
