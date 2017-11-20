@@ -10,6 +10,6 @@ catalog: true
 
 
 # Hello~, this is my first Blog，
-感谢 [Huxpro](https://github.com/Huxpro/huxpro.github.io）、[BY](https://github.com/qiubaiying/qiubaiying.github.io) 以及[Clean Blog Jekyll Theme]（https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll提供的模板！
+感谢[Huxpro](https://github.com/Huxpro/huxpro.github.io）、[BY](https://github.com/qiubaiying/qiubaiying.github.io) 以及[Clean Blog Jekyll Theme](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll)提供的模板！
 
 博士已经读到第三年了，开通个人博客，记录一下自己的科研和生活的点点滴滴吧~~~
