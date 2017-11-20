@@ -1,13 +1,13 @@
 # Site settings
 title: Timmy's Blog
-SEOTitle: Tim的博客 | Tim Blog
+SEOTitle: Tim的博客
 header-img: img/about-Tim-gentle.jpg
 email: jqm_bupt@163.com
 description: "5G is coming!!!."
 keyword: "Tim, Tim Blog, Tim的博客, JiaQingmin, 贾庆民, Mobile Network, Future Network, Edge Computing"
 url: "http://Timmy-Jia.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Timmy-Jia/Timmy-Jia.github.io.git" # you code repository
+github_repo: "https://github.com/Timmy-Jia/Timmy-Jia.github.io"  # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
