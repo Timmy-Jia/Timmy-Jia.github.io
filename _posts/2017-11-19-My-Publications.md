@@ -10,4 +10,7 @@ tags:
 ---
 
 # 论文
-1. Q. Jia, R. Xie, T. Huang, J. Liu and Y. Liu, "The Collaboration for Content Delivery and Network Infrastructures: A Survey," in IEEE Access, vol. 5, pp. 18088-18106, 2017.
+1. **Q. Jia**, R. Xie, T. Huang, J. Liu and Y. Liu, "The Collaboration for Content Delivery and Network Infrastructures: A Survey," in IEEE Access, vol. 5, pp. 18088-18106, 2017.
+
+# 专利
+1. 谢人超, **贾庆民**, 黄韬, 刘韵洁，一种缓存资源分配的方法及装置， CN 106412040 A， 2017.2
