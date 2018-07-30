@@ -1,18 +1,18 @@
 # Site settings
-#title: Timmy's Blog
-#SEOTitle: Tim的博客
-#header-img: img/bg-index-1.jpg
-#email: jqm_bupt@163.com
-#description: "5G is coming!!!."
-#keyword: "Tim, Tim Blog, Tim的博客, JiaQingmin, 贾庆民, Mobile Network, Future Network, Edge Computing"
-#url: "http://Timmy-Jia.github.io"          # your host, for absolute URL
-#baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-#github_repo: "https://github.com/Timmy-Jia/Timmy-Jia.github.io.git"  # you code repository
+title: Timmy's Blog
+SEOTitle: Tim的博客
+header-img: img/bg-index-1.jpg
+email: jqm_bupt@163.com
+description: "5G is coming!!!."
+keyword: "Tim, Tim Blog, Tim的博客, JiaQingmin, 贾庆民, Mobile Network, Future Network, Edge Computing"
+url: "http://Timmy-Jia.github.io"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/Timmy-Jia/Timmy-Jia.github.io.git"  # you code repository
 
 # Sidebar settings
-#sidebar: true                           # whether or not using Sidebar.
-#sidebar-about-description: "5G is coming!"
-#sidebar-avatar: /img/about-Tim-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "5G is coming!"
+sidebar-avatar: /img/about-Tim-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
