@@ -3,7 +3,7 @@ layout:     post
 title:      学习与科研资料
 subtitle:   网络资源
 date:       2017-11-20
-author:     Qingmin Jia
+author:     Tim
 header-img: img/about-Tim-gentle.jpg
 catalog: true
 tags:
