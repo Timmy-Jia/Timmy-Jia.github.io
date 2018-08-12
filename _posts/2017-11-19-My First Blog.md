@@ -3,7 +3,7 @@ layout:     post
 title:      第一篇博客
 subtitle:   Timmy's Blog开通啦
 date:       2017-11-19
-author:     jqm
+author:     tim
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 ---
